@@ -1,6 +1,6 @@
 ---
-title: It's me Mario  -Parth F.
-description: Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!  For more information abou
+title: Hi there 👋 I'm Parth F.
+description: Welcome to my website, I would keep all things simple and compact to maximize your time we wer uprised by your presnece
 # slug: hello-world
 # date: 2022-03-06 00:00:00+0000
 # image: cover.jpg
